@@ -1,2 +1,3 @@
 # task1
-task1 for devops
+for start mysql server :
+docker-compose up -d 
